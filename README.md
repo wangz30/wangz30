@@ -2,12 +2,14 @@
 ============================================================================================================================
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangz30)
 
-<img src="https://raw.githubusercontent.com/wangz30/output/snake.svg" alt="Snake animation" />
-
+<br/>  
+<img src="https://raw.githubusercontent.com/wangz30/wangz30/output/snake.svg" alt="Snake animation" />
 
 ###
-<br/>  
 
+<p align="left">Hello World!!</p>
+
+###
 ![Profile views counter](https://komarev.com/ghpvc/?username=wangz30&&style=flat-square)  
   
 
