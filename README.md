@@ -2,7 +2,7 @@
 ============================================================================================================================
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangz30)
 
-<img src="https://raw.githubusercontent.com/wangz30/wangz30/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wangz30/output/snake.svg" alt="Snake animation" />
 
 
 ###
