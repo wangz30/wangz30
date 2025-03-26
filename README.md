@@ -6,4 +6,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangz30)
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
