@@ -5,19 +5,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 *   🌍  I'm based in China & Ireland
 *   ✉️  You can contact me at [wangz30@tcd.ie](mailto:wangz30@tcd.ie)
 
-
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
-<p>&emsp;&emsp; I am Zexi, my background is in Psychology and Data Science. </p>
-<p>&emsp;&emsp; I primarily use Python and R for tasks like machine learning, text analysis, and time - series forecasting. </p>
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-</td></tr>
-
-<tr><td>
-
-## 🏢 Work Experience
+## 🏢 About my github
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
 
