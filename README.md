@@ -1,6 +1,7 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) What's up?
 ===========================================================================================================================
 ### 🤺 About Me
+*   🧠  My name is Zexi, my background is Psychology and Data Science.
 *   🌍  I'm based in China & Ireland
 *   ✉️  You can contact me at [wangz30@tcd.ie](mailto:wangz30@tcd.ie)
 
