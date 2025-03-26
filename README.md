@@ -5,3 +5,4 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangz30)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wangz30&left_color=green&right_color=red)
