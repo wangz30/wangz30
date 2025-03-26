@@ -8,7 +8,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=wangz30&&style=flat-square)  
   
 
 <br/>  
