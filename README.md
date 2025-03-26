@@ -1,36 +1,12 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) What's up?
 ===========================================================================================================================
-### 🤺 About Me
+### 🤺 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=About me;Second+line+of+text)
 *   🧠  My name is Zexi, my background is Psychology and Data Science.
 *   🌍  I'm based in China & Ireland
 *   ✉️  You can contact me at [wangz30@tcd.ie](mailto:wangz30@tcd.ie)
 
-## 🏢 About my github
-
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
-
-- [广州农商银行](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
-
-  - 工作岗位：系统开发岗
-  - 工作内容：参与网银开发与维护工作
-
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
-
-- [浪潮](https://www.inspur.com/)   📌 2019-07 —— 2020-02
-
-  - 工作岗位：实习生
-  - 工作内容：参与软件开发
-
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-</td></tr>
-
-
-
-</table>
----------
+### 🏢 About my github
+*   🧠 I mainly use Python and R. Here, I'll share some ongoing or completed projects.
 
 
 
