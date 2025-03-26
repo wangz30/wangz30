@@ -1,5 +1,7 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) What's up?
 ===========================================================================================================================
+*   🌍  I'm based in China & Ireland
+*   ✉️  You can contact me at [wangz30@tcd.ie](mailto:wangz30@tcd.ie)
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
@@ -12,8 +14,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 </td></tr>
 
 <tr><td>
-*   🌍  I'm based in China & Ireland
-*   ✉️  You can contact me at [wangz30@tcd.ie](mailto:wangz30@tcd.ie)
+
 ## 🏢 Work Experience
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
